@@ -4,7 +4,8 @@ A collection of small, incremental projects exploring quantitative finance.
 
 ## Current Projects
 ### 1. Stock Volatility
-- Downloaded daily prices with `yfinance`
-- Calculating returns and starting volatility analysis
+
+
+
 
 
