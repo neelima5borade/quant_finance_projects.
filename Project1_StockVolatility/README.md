@@ -1,4 +1,5 @@
 - Downloaded AAPL stock data (2020-2021) with `yfinance`
 - Plotted closing prices and saved first chart
 - Plotted daily and cummulative returns
-
+- Computed Volatility
+- Changed the timeline (start and end) to pre and post 2008 financial crises to see change in volatility 
